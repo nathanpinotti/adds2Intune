@@ -1,0 +1,8 @@
+# Provisioning packages contain a bulk enrollment token (secret)
+*.ppkg
+*.cat
+
+# Runtime output
+MigrationLogs/
+MigrationBackup/
+*.log

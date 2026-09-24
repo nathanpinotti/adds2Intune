@@ -1,0 +1,9 @@
+{
+  "LogPath": "C:\\MigrationLogs",
+  "ProfileBackupPath": "C:\\MigrationBackup",
+  "PPKGPath": "",
+  "NewComputerNamePrefix": "",
+  "RenameComputer": false,
+  "RebootDelaySeconds": 30,
+  "EntraUPNSuffix": ""
+}
