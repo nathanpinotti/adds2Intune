@@ -1,5 +1,4 @@
-
-# ADDS to Entra ID Device Migration (adds2Entra)
+# ADDS to Entra ID & Intune Device Migration (adds2Intune)
 
 Conjunto de scripts PowerShell para migrar computadores Windows ingressados em um domínio **Active Directory Domain Services (ADDS)** para **Microsoft Entra ID join**, com enrollment no **Microsoft Intune** e cópia dos dados do perfil do usuário.
 
